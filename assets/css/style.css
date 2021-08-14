@@ -100,19 +100,19 @@ p {
 }
 
 /* Consolidate benefits div css */
-.benefits div {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 /* Consolidate benefits header css */
-.benefits div h3 {
+.benefits article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* Consolidate benefits img css */
-.benefits div img {
+.benefits article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
